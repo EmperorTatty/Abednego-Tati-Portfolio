@@ -122,9 +122,10 @@ const dataportfolio = [{
     // },
     {
         img: "/images/smgtsys.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "A comprehensive School Management System that streamlines academic, administrative, and communication processes.",
         link: "#",
     },
+    
     // {
     //     img: "https://picsum.photos/400/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -140,7 +141,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "abedtati1@gmail.com",
     YOUR_FONE: "0746774389",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Feel free to reach out to me for any collaboration, freelance opportunities, or questions about my work. I'm always open to discussing new ideas or projects. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -149,10 +150,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/EmperorTatty",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/abednego-mutuku-a91935236/",
+    twitter: "https://x.com/tatty_emperor",
 };
 export {
     meta,
