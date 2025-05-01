@@ -2,7 +2,7 @@
 const logotext = "ABEDNEGO";
 const meta = {
     title: "Abed Tati",
-    description: "I’m Abednego Tati Mutuku Software Full stack developer",
+    description: "I’m Abednego Tati Mutuku Software developer",
 };
 
 const introdata = {
@@ -13,28 +13,23 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Join me to in this tech adventure!",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "/images/myprofile.png",
 };
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "A motivated, adaptable and responsible Software Developer proficient in building and optimizing software solutions. Talented coder and project manager bringing consistent record of producing quality deliverables. Contributes expertise to all stages of software development lifecycle.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Engineer",
+        where: "Upeosoft Limited, Nairobi",
+        date: "2024 Upto date",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+        jobtitle: "Microsoft Dynamic 365 Developer",
+        where: "AppKings Solutions",
+        date: "2023",
+    }
 ];
 
 const skills = [{
@@ -58,100 +53,93 @@ const skills = [{
         value: 90,
     },
     {
+        name: ".Flutter",
+        value: 60,
+    },
+    {
         name: ".NET",
         value: 60,
     },
     {
-        name: "MySQL",
+        name: "MySQL/Mariadb",
         value: 70,
     },
-
-    {
-        name: "Jquery",
-        value: 85,
-    },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+      title: "ERP Management Systems",
+      description: "I design and implement robust ERP systems that streamline business operations, from inventory and finance to customer relationship management. These systems are tailored to improve efficiency and enable data-driven decisions for growing enterprises.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      title: "Website Development",
+      description: "I build responsive, user-friendly websites using modern web technologies. Whether it's a personal portfolio, a company website, or an e-commerce platform, I ensure your digital presence is fast, secure, and impactful.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      title: "Mobile Application Development",
+      description: "I develop cross-platform mobile apps with intuitive interfaces and seamless functionality. My focus is on delivering apps that solve real-world problems and provide excellent user experiences across Android and iOS devices.",
     },
-];
+  ];
+  
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "/images/bus.png",
+        description: "A mobile application designed for the clothing industry to streamline inventory management, sales, and customer engagement. Built with a clean UI and powerful features tailored for fashion retail.",
         link: "#",
     },
+ 
+
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "/images/neonatal.avif",
+        description: "A neonatal health tracking mobile application focused on improving maternal and child healthcare. The app supports vaccination schedules, growth monitoring, and early health alerts to ensure newborn wellness.",
         link: "#",
     },
 
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "/images/smgtsys.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "abedtati1@gmail.com",
+    YOUR_FONE: "0746774389",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
