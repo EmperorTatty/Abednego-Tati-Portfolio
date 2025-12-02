@@ -84,17 +84,17 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "/images/metro_trans.png",
+        img: "/images/metrotran.jpg",
         description: "Metro Transport Management System – Developed core features as a Software Developer to optimize transit operations and tracking.",
         link: "#",
     },
     {
-        img: "/images/water_billing.png",
+        img: "/images/kicowasco.png",
         description: "Water Billing Management System – Worked as a Software Engineer and Frappe/ERPNext Consultant to implement billing, invoicing, and reporting functionalities.",
         link: "#",
     },
     {
-        img: "/images/peekholdings.png",
+        img: "/images/peekholdings_logo.jpg",
         description: "Peekholdings Limited (Kirinyaga, Kutus) – ERP system for agricultural produce and drug manufacturing/reselling. Role: Frappe/ERPNext Consultant & Software Engineer.",
         link: "#",
     },
@@ -104,12 +104,12 @@ const dataportfolio = [
         link: "#",
     },
     {
-        img: "/images/carstore.png",
+        img: "/images/carstoreAuto.jpg",
         description: "Carstore Garage Management System – Developed key modules as a Software Developer to handle vehicle servicing, inventory, and client management.",
         link: "#",
     },
     {
-        img: "/images/fuel_management.png",
+        img: "/images/rsz_milestone_logo.jpg",
         description: "Fuel Management System – Milestone Fuel Suppliers, Meru. Implemented as a Frappe/ERPNext Consultant and Software Engineer to track fuel stocks, sales, and reporting.",
         link: "#",
     }
