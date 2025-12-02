@@ -82,61 +82,39 @@ const services = [
   ];
   
 
-const dataportfolio = [{
-        img: "/images/bus.png",
-        description: "A mobile application designed for the clothing industry to streamline inventory management, sales, and customer engagement. Built with a clean UI and powerful features tailored for fashion retail.",
-        link: "#",
-    },
- 
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+const dataportfolio = [
     {
-        img: "/images/neonatal.avif",
-        description: "A neonatal health tracking mobile application focused on improving maternal and child healthcare. The app supports vaccination schedules, growth monitoring, and early health alerts to ensure newborn wellness.",
+        img: "/images/metro_trans.png",
+        description: "Metro Transport Management System – Developed core features as a Software Developer to optimize transit operations and tracking.",
         link: "#",
     },
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
     {
-        img: "/images/smgtsys.png",
-        description: "A comprehensive School Management System that streamlines academic, administrative, and communication processes.",
+        img: "/images/water_billing.png",
+        description: "Water Billing Management System – Worked as a Software Engineer and Frappe/ERPNext Consultant to implement billing, invoicing, and reporting functionalities.",
         link: "#",
     },
-    
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "/images/peekholdings.png",
+        description: "Peekholdings Limited (Kirinyaga, Kutus) – ERP system for agricultural produce and drug manufacturing/reselling. Role: Frappe/ERPNext Consultant & Software Engineer.",
+        link: "#",
+    },
+    {
+        img: "/images/real_estate.png",
+        description: "Real Estate Management System – Built as Software Engineer and Frappe/ERPNext Consultant for managing property listings, sales, and customer interactions.",
+        link: "#",
+    },
+    {
+        img: "/images/carstore.png",
+        description: "Carstore Garage Management System – Developed key modules as a Software Developer to handle vehicle servicing, inventory, and client management.",
+        link: "#",
+    },
+    {
+        img: "/images/fuel_management.png",
+        description: "Fuel Management System – Milestone Fuel Suppliers, Meru. Implemented as a Frappe/ERPNext Consultant and Software Engineer to track fuel stocks, sales, and reporting.",
+        link: "#",
+    }
 ];
+
 
 const contactConfig = {
     YOUR_EMAIL: "abedtati1@gmail.com",
